@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123260501548",
+    "firebase_url": "https://futuristic-car-stunt.firebaseio.com",
+    "project_id": "futuristic-car-stunt",
+    "storage_bucket": "futuristic-car-stunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123260501548:android:59e7fb8fd46738ba03db89",
+        "android_client_info": {
+          "package_name": "com.brilliantgamez.impossiblecarstunts.turbo.ramp.car.stunt.driving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123260501548-e3e2cka5igc08rl9o6ps05rvgg9mfh1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMgseSiOChUrXvsgzAUzuR8uqYESHNrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123260501548-e3e2cka5igc08rl9o6ps05rvgg9mfh1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
