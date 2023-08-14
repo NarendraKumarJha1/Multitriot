@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Signals
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b5696f62edbc1ca4987448fc7f2a9922, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f5f3faa1b8f2de44f96383d98b0f1088: 21300000
+    - 7af909f3071c72b4a83f9e8dac3b82f9: 21300000
+    - b88d66088b32f3c41b8258849fcbca52: 21300000
+    - fdf5f91b42177fe48863556612d9013a: 21300000
+    - 3e99de7cce41a3b4e956a4c1b7bb1f9f: 21300000
+    - 61060c7fcd75c944693019fea1f7c354: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f5f3faa1b8f2de44f96383d98b0f1088, type: 3}
+  - {fileID: 21300000, guid: 7af909f3071c72b4a83f9e8dac3b82f9, type: 3}
+  - {fileID: 21300000, guid: b88d66088b32f3c41b8258849fcbca52, type: 3}
+  - {fileID: 21300000, guid: fdf5f91b42177fe48863556612d9013a, type: 3}
+  - {fileID: 21300000, guid: 3e99de7cce41a3b4e956a4c1b7bb1f9f, type: 3}
+  - {fileID: 21300000, guid: 61060c7fcd75c944693019fea1f7c354, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - yellow dal
+  - red
+  - green
+  - red dal
+  - yellow
+  - green dal
+  m_RenderDataMap: {}
+  m_Tag: Signals
+  m_IsVariant: 0
