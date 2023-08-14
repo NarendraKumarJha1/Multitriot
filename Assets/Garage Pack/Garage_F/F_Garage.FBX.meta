@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 4fa152bf2deaa574dbd58f95944c7970
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Garage_F_Borders
+    100004: Garage_F_Glass
+    100006: Garage_F_Stage
+    100008: Garage_F_Structure
+    100010: Garage_F
+    100012: stage
+    400000: //RootNode
+    400002: Garage_F_Borders
+    400004: Garage_F_Glass
+    400006: Garage_F_Stage
+    400008: Garage_F_Structure
+    400010: Garage_F
+    400012: stage
+    2100000: Glass_Garage_F
+    2100002: Border_Garage_F
+    2100004: Structure_Garage_F
+    2100006: 'Material #910'
+    2100008: 'Material #909'
+    2300000: Garage_F_Borders
+    2300002: Garage_F_Glass
+    2300004: Garage_F_Stage
+    2300006: Garage_F_Structure
+    2300008: stage
+    3300000: Garage_F_Borders
+    3300002: Garage_F_Glass
+    3300004: Garage_F_Stage
+    3300006: Garage_F_Structure
+    3300008: stage
+    4300000: Garage_F_Glass
+    4300002: Garage_F_Borders
+    4300004: Garage_F_Structure
+    4300006: Garage_F_Stage
+    4300008: stage
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border_Garage_F
+    second: {fileID: 2100000, guid: e0436dff2812c524cb0bda6a8e12a576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Garage_F
+    second: {fileID: 2100000, guid: 614dfd5aec4ac104eb984da8be917db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #909'
+    second: {fileID: 2100000, guid: 046ec2ffbf256aa4fb16b2a8019a8157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #910'
+    second: {fileID: 2100000, guid: 4d479edc305f0c140b4ac62eea2994b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure_Garage_F
+    second: {fileID: 2100000, guid: e2dd0c65e0fb9fb40bc7ea293977ae14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stage
+    second: {fileID: 2100000, guid: 41731419605cfd1449e3928854b8d811, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

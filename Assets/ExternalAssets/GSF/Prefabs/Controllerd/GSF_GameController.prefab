@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &140530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 499374}
+  - component: {fileID: 11415780}
+  m_Layer: 0
+  m_Name: GSF_GameController
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &499374
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11415780
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 140530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f53f10207d031342983a3e7a6e27c95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PreviousScene: 1
+  NextScene: 4
+  StartDeactivate: 0
+  Players:
+  - PlayerObject: {fileID: 0}
+    PlayerControls: {fileID: 0}
+  - PlayerObject: {fileID: 0}
+    PlayerControls: {fileID: 0}
+  Game_Elements:
+    LevelComplete: {fileID: 0}
+    FinalComplete: {fileID: 0}
+    LevelFailed: {fileID: 0}
+    ReasonObject: {fileID: 0}
+    GameOverLogo: {fileID: 0}
+    GameOverText: {fileID: 0}
+    GameExit: {fileID: 0}
+    PauseMenu: {fileID: 0}
+    HelpScreen: {fileID: 0}
+    LoadingScreen: {fileID: 0}
+    Timer: {fileID: 0}
+    Timer_txt: {fileID: 0}
+    InstructionText: {fileID: 0}
+  SFX_Elements:
+    BGMusicLoops:
+    - {fileID: 0}
+    LevelCompleteSFX: {fileID: 8300000, guid: 0332c36eda7cd4f41b2eb9a51b7a1382, type: 3}
+    LevelFailedSFX: {fileID: 8300000, guid: 85e13e1cb73cf8940b93d8dd58fbe399, type: 3}
+    CountDown: {fileID: 0}
+  PlayableLevels: 8
+  Levels:
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 1
+    SecondaryPlayers:
+    - PlayerIndex: 1
+      SpawnPoint: {fileID: 0}
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 1
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels:
+    - MinTime: 0
+      MaxTime: 100
+      RewardInfo:
+      - RewardType: 0
+        RewardAmount: 1
+      - RewardType: 1
+        RewardAmount: 2
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 1
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 2
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 3
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 4
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 5
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 6
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels:
+    - MinTime: 0
+      MaxTime: 0
+      RewardInfo: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 7
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels:
+    - MinTime: 0
+      MaxTime: 0
+      RewardInfo: []
+  - LevelObject: {fileID: 0}
+    PrimaryPlayer:
+      PlayerIndex: 0
+      SpawnPoint: {fileID: 0}
+    EnableSecondarySpawns: 0
+    SecondaryPlayers: []
+    Items: []
+    Objectives:
+    - FinishPoint: {fileID: 0}
+      Instruction: LEVEL 8
+    isTimeBased: 1
+    Minutes: 60
+    Seconds: 10
+    GiveReward: 0
+    RewardLevels:
+    - MinTime: 0
+      MaxTime: 0
+      RewardInfo: []
+  ReasonBased: 1
+  States:
+  - Icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+    Reason: Time Over !
+  GameWinDelay: 2
+  GameLooseDelay: 2
+  SequenceID: 2
+  TimerPaused: 0
+  StartLevel: 1
+  ForceInitialPlayer: 0
+  StartPlayer: 1
+  ObjectivesLeft: 0
+  LevelTime: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 140530}
+  m_IsPrefabParent: 1

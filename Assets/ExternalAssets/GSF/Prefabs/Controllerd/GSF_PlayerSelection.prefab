@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &131104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 457224}
+  - component: {fileID: 11462382}
+  m_Layer: 0
+  m_Name: GSF_PlayerSelection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &457224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131104}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11462382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ff3198d8e9fb540a33245a405a4840, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PreviousScene: 1
+  NextScene: 4
+  Selection_UI:
+    LoadingScreen: {fileID: 0}
+    FillBar: {fileID: 0}
+    lockedIndicator: {fileID: 0}
+    availableCashText: {fileID: 0}
+    priceTag: {fileID: 0}
+    nameText: {fileID: 0}
+    Speed_Bar: {fileID: 0}
+    Handling_Bar: {fileID: 0}
+    Acceleration_Bar: {fileID: 0}
+    lastBar: {fileID: 0}
+    topSpeedText: {fileID: 0}
+    rpmText: {fileID: 0}
+    frontSuspensionText: {fileID: 0}
+    rearSuspensionText: {fileID: 0}
+    InfoText: {fileID: 0}
+    PlayLevelsBtn: {fileID: 0}
+    customizeBtn: {fileID: 0}
+    NextBtn: {fileID: 0}
+    PrevBtn: {fileID: 0}
+    buyBtn: {fileID: 0}
+    waitingRoom: {fileID: 0}
+  avaterImages:
+  - {fileID: 21300000, guid: 6591625e3ea1fa744b71b6f145d408f8, type: 3}
+  - {fileID: 21300000, guid: cac11eb191fa5734383dd36e924548f7, type: 3}
+  - {fileID: 21300000, guid: f25efe96069e891428e3475ae60319e5, type: 3}
+  - {fileID: 21300000, guid: e5b3c5559b0364e4aa2938530959e241, type: 3}
+  - {fileID: 21300000, guid: 89ccbd3016d96764ea170f88a0d92ecb, type: 3}
+  - {fileID: 21300000, guid: 8561237ea0f34c74bbe02c2a77526b36, type: 3}
+  - {fileID: 21300000, guid: ee0263c59acb27f41830254f3df3dfc9, type: 3}
+  - {fileID: 21300000, guid: a19990c78b2ead24ca2c89b7e9cb0e4c, type: 3}
+  - {fileID: 21300000, guid: e005dc325d3faaa42a8c5cb2ae0926ca, type: 3}
+  - {fileID: 21300000, guid: a540ac5b472d92442b23eb126b1528c2, type: 3}
+  Players:
+  - Name: Shoefy Car 1
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 347
+    Handling: 118
+    Acceleration: 232
+    lastValue: 145
+    topSpeed: 220
+    RPM: 7000
+    frontSuspension: 4000
+    rearSuspension: 5000
+    Locked: 0
+    cashPrice: 0
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  - Name: Shoefy Car 2
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 301
+    Handling: 158
+    Acceleration: 215
+    lastValue: 161
+    topSpeed: 250
+    RPM: 8000
+    frontSuspension: 5000
+    rearSuspension: 5500
+    Locked: 0
+    cashPrice: 500000
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  - Name: Shoefy Car 3
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 371
+    Handling: 146
+    Acceleration: 186
+    lastValue: 191
+    topSpeed: 270
+    RPM: 8500
+    frontSuspension: 6000
+    rearSuspension: 7500
+    Locked: 0
+    cashPrice: 800000
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  - Name: Shoefy Car 4
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 443
+    Handling: 153
+    Acceleration: 234
+    lastValue: 209
+    topSpeed: 290
+    RPM: 9000
+    frontSuspension: 7000
+    rearSuspension: 8000
+    Locked: 0
+    cashPrice: 1200000
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  - Name: Shoefy Car 5
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 426
+    Handling: 173
+    Acceleration: 266
+    lastValue: 279
+    topSpeed: 320
+    RPM: 10000
+    frontSuspension: 9000
+    rearSuspension: 10000
+    Locked: 0
+    cashPrice: 1600000
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  - Name: Shoefy Car 6
+    Info: Unlock Level 2 to Get this Vehicle !
+    PlayerObject: {fileID: 0}
+    revertPlayerObject: {fileID: 0}
+    Speed: 473
+    Handling: 190
+    Acceleration: 284
+    lastValue: 290
+    topSpeed: 350
+    RPM: 20000
+    frontSuspension: 11000
+    rearSuspension: 20000
+    Locked: 0
+    cashPrice: 3200000
+    LevelRequired: 0
+    currentBodyColorIndex: -1
+    currentRimEmissionColorIndex: -1
+  vehicleDropPosition: {fileID: 0}
+  UnlockAllPlayersBtn: {fileID: 0}
+  SequenceID: 1
+  LoadingSequence: 1
+  LoadingSequenceID: 4
+  rewardedVideoSequenceId: 5
+  liveView: {fileID: 0}
+  onSelectionChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  nextScreen: {fileID: 0}

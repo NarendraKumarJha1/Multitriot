@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &139234
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 484766}
+  - component: {fileID: 11464794}
+  m_Layer: 0
+  m_Name: GSF_MainMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &484766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139234}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11464794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e5557f28a28369429f2be0fb99f4c5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NextScene: 3
+  avaterImages:
+  - {fileID: 21300000, guid: 6591625e3ea1fa744b71b6f145d408f8, type: 3}
+  - {fileID: 21300000, guid: cac11eb191fa5734383dd36e924548f7, type: 3}
+  - {fileID: 21300000, guid: f25efe96069e891428e3475ae60319e5, type: 3}
+  - {fileID: 21300000, guid: e5b3c5559b0364e4aa2938530959e241, type: 3}
+  - {fileID: 21300000, guid: 89ccbd3016d96764ea170f88a0d92ecb, type: 3}
+  - {fileID: 21300000, guid: 8561237ea0f34c74bbe02c2a77526b36, type: 3}
+  - {fileID: 21300000, guid: ee0263c59acb27f41830254f3df3dfc9, type: 3}
+  - {fileID: 21300000, guid: a19990c78b2ead24ca2c89b7e9cb0e4c, type: 3}
+  - {fileID: 21300000, guid: e005dc325d3faaa42a8c5cb2ae0926ca, type: 3}
+  - {fileID: 21300000, guid: a540ac5b472d92442b23eb126b1528c2, type: 3}
+  selectedAvatarFrame: {fileID: 0}
+  playerName: {fileID: 0}
+  loadingPanel: {fileID: 0}
+  welcomeRewardPanel: {fileID: 0}
+  profileSetAskPanel: {fileID: 0}
+  HelpScreen: {fileID: 0}
+  ExitDialogue: {fileID: 0}
+  logoutBtn: {fileID: 0}
+  SequenceID: 0
+  mixer: {fileID: 24100000, guid: 9610aec1a2f43c9448e9792620dea8d5, type: 2}
+  inGamecoinsText: {fileID: 0}
