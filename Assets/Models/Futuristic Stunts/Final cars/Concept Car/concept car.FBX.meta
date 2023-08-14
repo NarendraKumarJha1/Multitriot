@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 205859fef85207f44a5dcfe80446814a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car_Mesh_77_F1_49_51_Submesh_52
+    100002: //RootNode
+    100004: tire 002
+    100006: tire 003
+    100008: tire 004
+    100010: tire 1
+    400000: Car_Mesh_77_F1_49_51_Submesh_52
+    400002: //RootNode
+    400004: tire 002
+    400006: tire 003
+    400008: tire 004
+    400010: tire 1
+    2100000: streetfighter_88_black
+    2100002: mirrors
+    2100004: CarsonGTConcept_None_glass_png
+    2100006: CarsonGTConcept_None_Glow_png
+    2100008: CarsonGTConcept_None_RearGlassTransparent_png
+    2100010: CarsonGTConcept_None
+    2100012: CarsonGTConcept_None_36_76_fb_90_png
+    2100014: CarsonGTConcept_None_0c_c8_82_de_png
+    2100016: CarsonGTConcept_None_Black_png
+    2100018: CarsonGTConcept_None_d2_11_81_4e_png
+    2100020: CarsonGTConcept_None_8b_ed_3d_b5_png
+    2100022: CarsonGTConcept_None_89_eb_ee_a9_png
+    2100024: CarsonGTConcept_None_Chrome_png
+    2100026: CarsonGTConcept_None_61_7a_eb_72_png
+    2100028: CarsonGTConcept_None_c7_8e_a0_c2_png
+    2100030: CarsonGTConcept_None_bb_d6_87_06_png
+    2300000: Car_Mesh_77_F1_49_51_Submesh_52
+    2300002: tire 002
+    2300004: tire 003
+    2300006: tire 004
+    2300008: tire 1
+    3300000: Car_Mesh_77_F1_49_51_Submesh_52
+    3300002: tire 002
+    3300004: tire 003
+    3300006: tire 004
+    3300008: tire 1
+    4300000: tire 1
+    4300002: tire 004
+    4300004: tire 003
+    4300006: tire 002
+    4300008: Car_Mesh_77_F1_49_51_Submesh_52
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

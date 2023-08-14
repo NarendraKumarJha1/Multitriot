@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 4231421463c58ff4aa76d9a7aa8c4171
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLeft
+    100002: BackLeft_1
+    100004: BackRight
+    100006: BackRight_1
+    100008: Body
+    100010: Chassis
+    100012: Collider
+    100014: COM
+    100016: FL
+    100018: FR
+    100020: front_detector
+    100022: FrontLeft
+    100024: FrontLeft_1
+    100026: FrontRight
+    100028: FrontRight_1
+    100030: Headlight
+    100032: Renault_Alpine
+    100034: RL
+    100036: RR
+    100038: Shadow
+    100040: //RootNode
+    100042: Trigger
+    100044: Wheel_Colliders
+    100046: WheelTransforms
+    400000: BackLeft
+    400002: BackLeft_1
+    400004: BackRight
+    400006: BackRight_1
+    400008: Body
+    400010: Chassis
+    400012: Collider
+    400014: COM
+    400016: FL
+    400018: FR
+    400020: front_detector
+    400022: FrontLeft
+    400024: FrontLeft_1
+    400026: FrontRight
+    400028: FrontRight_1
+    400030: Headlight
+    400032: Renault_Alpine
+    400034: RL
+    400036: RR
+    400038: Shadow
+    400040: //RootNode
+    400042: Trigger
+    400044: Wheel_Colliders
+    400046: WheelTransforms
+    2100000: Default_Material
+    2100002: Renault_Alpine_Trim
+    2100004: Renault_Alpine_Bodyparts01
+    2100006: Renault_Alpine_body_carpaint_second01
+    2100008: Renault_Alpine_body01_black01
+    2100010: Renault_Alpine_body01_carpaint01
+    2100012: Renault_Alpine_body01_orange01
+    2100014: Renault_Alpine_body01_red
+    2100016: Renault_Alpine_clearglass
+    2100018: Renault_Alpine_Headlights
+    2100020: Renault_Alpine_Wheeltyre
+    2300000: BackLeft_1
+    2300002: BackRight_1
+    2300004: Body
+    2300006: Collider
+    2300008: front_detector
+    2300010: FrontLeft_1
+    2300012: FrontRight_1
+    2300014: Headlight
+    2300016: Trigger
+    3300000: BackLeft_1
+    3300002: BackRight_1
+    3300004: Body
+    3300006: Collider
+    3300008: front_detector
+    3300010: FrontLeft_1
+    3300012: FrontRight_1
+    3300014: Headlight
+    3300016: Trigger
+    4300000: Collider
+    4300002: Body
+    4300004: Headlight
+    4300006: BackLeft_1
+    4300008: BackRight_1
+    4300010: FrontLeft_1
+    4300012: FrontRight_1
+    4300014: front_detector
+    4300016: Trigger
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 4c44b7d079e1b084680e69b8e96f78a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_Bodyparts01
+    second: {fileID: 2100000, guid: f25dfbf131f07144d91e175b139089de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_Headlights
+    second: {fileID: 2100000, guid: c27a277fcf8c6e046ad1daea48fa211b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_Trim
+    second: {fileID: 2100000, guid: 242b1cc48cc53334b91b2ea97ab0aca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_Wheeltyre
+    second: {fileID: 2100000, guid: ab98b5a7833f3a64baff1a20543ff7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_body01_black01
+    second: {fileID: 2100000, guid: 2299d291c9446894ab3ff2bf11dc0ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_body01_carpaint01
+    second: {fileID: 2100000, guid: 40e4fa494569a8d4c81c56cfd2cf3db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_body01_orange01
+    second: {fileID: 2100000, guid: 4ec72a4266edb894d93e6af568c37350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_body01_red
+    second: {fileID: 2100000, guid: 05b0e5d04a35e4e4c95289f2f0cd04ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_body_carpaint_second01
+    second: {fileID: 2100000, guid: d28ba267567ec784a8837d0383690834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Renault_Alpine_clearglass
+    second: {fileID: 2100000, guid: 15cd52efef371914da152fbd9eb5bfee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

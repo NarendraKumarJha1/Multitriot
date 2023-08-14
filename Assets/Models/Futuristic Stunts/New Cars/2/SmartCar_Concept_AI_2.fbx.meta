@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: ca95ab11d18c63944803d8d0f4925a30
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLeft
+    100002: BackLeft_1
+    100004: BackRight
+    100006: BackRight_1
+    100008: Body
+    100010: Chassis
+    100012: Collider
+    100014: COM
+    100016: Door
+    100018: door_l
+    100020: door_r
+    100022: FL
+    100024: FR
+    100026: front_detector
+    100028: FrontLeft
+    100030: FrontLeft_1
+    100032: FrontRight
+    100034: FrontRight_1
+    100036: Headlight_L
+    100038: Headlight_R
+    100040: Headlights
+    100042: Mersedes_biome
+    100044: RL
+    100046: RR
+    100048: Shadow
+    100050: //RootNode
+    100052: Trigger
+    100054: Wheel_Colliders
+    100056: WheelTransforms
+    400000: BackLeft
+    400002: BackLeft_1
+    400004: BackRight
+    400006: BackRight_1
+    400008: Body
+    400010: Chassis
+    400012: Collider
+    400014: COM
+    400016: Door
+    400018: door_l
+    400020: door_r
+    400022: FL
+    400024: FR
+    400026: front_detector
+    400028: FrontLeft
+    400030: FrontLeft_1
+    400032: FrontRight
+    400034: FrontRight_1
+    400036: Headlight_L
+    400038: Headlight_R
+    400040: Headlights
+    400042: Mersedes_biome
+    400044: RL
+    400046: RR
+    400048: Shadow
+    400050: //RootNode
+    400052: Trigger
+    400054: Wheel_Colliders
+    400056: WheelTransforms
+    2100000: Mersedes_biome_carpaint
+    2100002: Mersedes_biome_chrome
+    2100004: Mersedes_biome_windowglass
+    2100006: Mersedes_biome_black
+    2100008: Mersedes_biome_blueglass
+    2100010: Mersedes_biome_redglass
+    2100012: Mersedes_biome_carpaint_second
+    2100014: Mersedes_biome_headlights
+    2100016: Default_Material
+    2100018: Mersedes_biome_wheels
+    2300000: BackLeft_1
+    2300002: BackRight_1
+    2300004: Body
+    2300006: Collider
+    2300008: door_l
+    2300010: door_r
+    2300012: front_detector
+    2300014: FrontLeft_1
+    2300016: FrontRight_1
+    2300018: Headlight_L
+    2300020: Headlight_R
+    2300022: Trigger
+    3300000: BackLeft_1
+    3300002: BackRight_1
+    3300004: Body
+    3300006: Collider
+    3300008: door_l
+    3300010: door_r
+    3300012: front_detector
+    3300014: FrontLeft_1
+    3300016: FrontRight_1
+    3300018: Headlight_L
+    3300020: Headlight_R
+    3300022: Trigger
+    4300000: Body
+    4300002: door_l
+    4300004: door_r
+    4300006: Headlight_R
+    4300008: Headlight_L
+    4300010: Collider
+    4300012: BackLeft_1
+    4300014: BackRight_1
+    4300016: FrontLeft_1
+    4300018: FrontRight_1
+    4300020: front_detector
+    4300022: Trigger
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: f449deca193a19b49b26312d7975d303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_black
+    second: {fileID: 2100000, guid: 659848e7b2f9de54fa7eff63d5669313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_blueglass
+    second: {fileID: 2100000, guid: e32f8931957f1974aa1bcb824579847f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_carpaint
+    second: {fileID: 2100000, guid: c1d9abcc8b561214ba1a3e71b92cd26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_carpaint_second
+    second: {fileID: 2100000, guid: e7ceaaff0cae64f4aaa5e973da60c850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_chrome
+    second: {fileID: 2100000, guid: 7eb2cbb0cf15c204689fb723697d518a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_headlights
+    second: {fileID: 2100000, guid: 0ce51227dedffdf4692a8b63a5569434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_redglass
+    second: {fileID: 2100000, guid: 333661440ab1af840bfc3d837876aa3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_wheels
+    second: {fileID: 2100000, guid: 956287ea5a3dd4f42ae809d48fcb8899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mersedes_biome_windowglass
+    second: {fileID: 2100000, guid: 5cb7c6066fc897a42b69f8038f0cf2c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 3ce0814225b9d4444b65cb5718ee386e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AstonMartinDP100
+    100002: BackLeft
+    100004: BackLeft_1
+    100006: BackRight
+    100008: BackRight_1
+    100010: Body
+    100012: Bulb
+    100014: Bulb_1
+    100016: Chassis
+    100018: Collider
+    100020: COM
+    100022: Door
+    100024: door_l
+    100026: door_r
+    100028: FL
+    100030: FR
+    100032: front_detector
+    100034: FrontLeft
+    100036: FrontLeft_1
+    100038: FrontRight
+    100040: FrontRight_1
+    100042: Headlights
+    100044: RL
+    100046: RR
+    100048: Shadow
+    100050: //RootNode
+    100052: Trigger
+    100054: Wheel_Colliders
+    100056: WheelTransforms
+    100058: Windshield
+    400000: AstonMartinDP100
+    400002: BackLeft
+    400004: BackLeft_1
+    400006: BackRight
+    400008: BackRight_1
+    400010: Body
+    400012: Bulb
+    400014: Bulb_1
+    400016: Chassis
+    400018: Collider
+    400020: COM
+    400022: Door
+    400024: door_l
+    400026: door_r
+    400028: FL
+    400030: FR
+    400032: front_detector
+    400034: FrontLeft
+    400036: FrontLeft_1
+    400038: FrontRight
+    400040: FrontRight_1
+    400042: Headlights
+    400044: RL
+    400046: RR
+    400048: Shadow
+    400050: //RootNode
+    400052: Trigger
+    400054: Wheel_Colliders
+    400056: WheelTransforms
+    400058: Windshield
+    2100000: Default_Material
+    2100002: white
+    2100004: AstonMartinDP100_glass
+    2100006: AstonMartinDP100_chrome
+    2100008: AstonMartinDP100_windows
+    2100010: AstonMartinDP100_diffuse
+    2100012: AstonMartinDP100_bodycolor
+    2100014: AstonMartinDP100_reflective
+    2100016: AstonMartinDP100_interior
+    2100018: AstonMartinDP100_wheels
+    2300000: BackLeft_1
+    2300002: BackRight_1
+    2300004: Body
+    2300006: Bulb
+    2300008: Bulb_1
+    2300010: Collider
+    2300012: door_l
+    2300014: door_r
+    2300016: front_detector
+    2300018: FrontLeft_1
+    2300020: FrontRight_1
+    2300022: Trigger
+    2300024: Windshield
+    3300000: BackLeft_1
+    3300002: BackRight_1
+    3300004: Body
+    3300006: Bulb
+    3300008: Bulb_1
+    3300010: Collider
+    3300012: door_l
+    3300014: door_r
+    3300016: front_detector
+    3300018: FrontLeft_1
+    3300020: FrontRight_1
+    3300022: Trigger
+    3300024: Windshield
+    4300000: Collider
+    4300002: Bulb
+    4300004: Bulb_1
+    4300006: Body
+    4300008: Windshield
+    4300010: door_l
+    4300012: door_r
+    4300014: BackLeft_1
+    4300016: BackRight_1
+    4300018: FrontLeft_1
+    4300020: FrontRight_1
+    4300022: front_detector
+    4300024: Trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_bodycolor
+    second: {fileID: 2100000, guid: 7138b102e2291f54d9daaa2f1efda763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_chrome
+    second: {fileID: 2100000, guid: 2be4c0c4f6958a24d86a9498fdc99cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_diffuse
+    second: {fileID: 2100000, guid: 44c6c97541e2ed646bf1a6a3fd3e9830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_glass
+    second: {fileID: 2100000, guid: 046560e5aa35ecc43a59cfc4d6ee93d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_interior
+    second: {fileID: 2100000, guid: 95b4086df19c9be4c9b0893c2f8f8855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_reflective
+    second: {fileID: 2100000, guid: 44c6c97541e2ed646bf1a6a3fd3e9830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_wheels
+    second: {fileID: 2100000, guid: 5ad42b7e011a60d4e932370b67021d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinDP100_windows
+    second: {fileID: 2100000, guid: 73029deae3e0e304b9943ea95881db65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 42058e8e7bf960a419faa71b2e4d547b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 56bd0e6f2a0924441a5c28a6f974c7ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

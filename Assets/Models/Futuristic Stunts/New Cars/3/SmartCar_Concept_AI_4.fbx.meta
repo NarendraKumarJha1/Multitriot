@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: f26d2df3c15ff2241917ab100361ee41
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AstonMartinAMRB
+    100002: BackLeft
+    100004: BackLeft_1
+    100006: BackRight
+    100008: BackRight_1
+    100010: Body
+    100012: Chassis
+    100014: Collider
+    100016: COM
+    100018: Door
+    100020: door_l
+    100022: door_r
+    100024: FL
+    100026: FR
+    100028: front_detector
+    100030: FrontLeft
+    100032: FrontLeft_1
+    100034: FrontRight
+    100036: FrontRight_1
+    100038: Headlight
+    100040: Interior
+    100042: Interior_1
+    100044: RL
+    100046: RR
+    100048: Seats
+    100050: Shadow
+    100052: //RootNode
+    100054: Steering
+    100056: Trigger
+    100058: Wheel_Colliders
+    100060: WheelTransforms
+    100062: Windshield
+    400000: AstonMartinAMRB
+    400002: BackLeft
+    400004: BackLeft_1
+    400006: BackRight
+    400008: BackRight_1
+    400010: Body
+    400012: Chassis
+    400014: Collider
+    400016: COM
+    400018: Door
+    400020: door_l
+    400022: door_r
+    400024: FL
+    400026: FR
+    400028: front_detector
+    400030: FrontLeft
+    400032: FrontLeft_1
+    400034: FrontRight
+    400036: FrontRight_1
+    400038: Headlight
+    400040: Interior
+    400042: Interior_1
+    400044: RL
+    400046: RR
+    400048: Seats
+    400050: Shadow
+    400052: //RootNode
+    400054: Steering
+    400056: Trigger
+    400058: Wheel_Colliders
+    400060: WheelTransforms
+    400062: Windshield
+    2100000: Default_Material
+    2100002: white
+    2100004: AstonMartinAMRB_Carpaint_01
+    2100006: Glow
+    2100008: AstonMartinAMRB_Plastic
+    2100010: AstonMartinAMRB_Carpaint2
+    2100012: AstonMartinAMRB_Glass
+    2100014: AstonMartinAMRB_Lights
+    2100016: AstonMartinAMRB_HeadlightGlass
+    2100018: AstonMartinAMRB_Interior
+    2100020: AstonMartinAMRB_Wheel
+    2300000: BackLeft_1
+    2300002: BackRight_1
+    2300004: Body
+    2300006: Collider
+    2300008: door_l
+    2300010: door_r
+    2300012: front_detector
+    2300014: FrontLeft_1
+    2300016: FrontRight_1
+    2300018: Headlight
+    2300020: Interior_1
+    2300022: Seats
+    2300024: Steering
+    2300026: Trigger
+    2300028: Windshield
+    3300000: BackLeft_1
+    3300002: BackRight_1
+    3300004: Body
+    3300006: Collider
+    3300008: door_l
+    3300010: door_r
+    3300012: front_detector
+    3300014: FrontLeft_1
+    3300016: FrontRight_1
+    3300018: Headlight
+    3300020: Interior_1
+    3300022: Seats
+    3300024: Steering
+    3300026: Trigger
+    3300028: Windshield
+    4300000: Collider
+    4300002: Headlight
+    4300004: Body
+    4300006: Windshield
+    4300008: door_l
+    4300010: door_r
+    4300012: Interior_1
+    4300014: Seats
+    4300016: Steering
+    4300018: BackLeft_1
+    4300020: BackRight_1
+    4300022: FrontLeft_1
+    4300024: FrontRight_1
+    4300026: front_detector
+    4300028: Trigger
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Carpaint2
+    second: {fileID: 2100000, guid: b104308b5a82d7343b6904ef6a217b88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Carpaint_01
+    second: {fileID: 2100000, guid: 71f8e6a6e4734db48bca424e8c8eaccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Glass
+    second: {fileID: 2100000, guid: 7c4221dd6add4f544978a302e8d34271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_HeadlightGlass
+    second: {fileID: 2100000, guid: dc825413a219e6e458324004919270f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Interior
+    second: {fileID: 2100000, guid: c695cbbd674545a4bbac89676e2a5739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Lights
+    second: {fileID: 2100000, guid: 15a1b90c9723ee64390cca392a6ebf58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Plastic
+    second: {fileID: 2100000, guid: 96127b850eccacd4e84cf6bac74d18e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AstonMartinAMRB_Wheel
+    second: {fileID: 2100000, guid: 793887896303d4c4687f50315136e257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 67100cbd9d405a44e812891f0c7d5031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow
+    second: {fileID: 2100000, guid: 5b6aa7be840829d43b329d6f0aa5b0cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 0a05df4868703e748b57489f87301528, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

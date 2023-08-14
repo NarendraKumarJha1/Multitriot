@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 5019957566d0ec94ab39c5dadc58e1c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01 Aufkleber Quadra vorne
+    100002: 01 Aufkleber Quadra vorne.001
+    100004: //RootNode
+    100006: Rippen hinten guide
+    100008: Sketchfab Auspuff
+    100010: Sketchfab Heckzeugs
+    100012: Sketchfab Karosserie
+    100014: Sketchfab Kotfluegel
+    100016: Sketchfab Luftfilter
+    100018: Sketchfab Nummernschild vorne
+    100020: Sketchfab Nummernschild vorne.001
+    100022: Sketchfab Rad hinten
+    100024: Sketchfab Rad vorne
+    100026: Sketchfab Radlauf
+    100028: Sketchfab Spoiler
+    100030: Sketchfab Spoilerstangen
+    100032: Sketchfab Stange
+    100034: Sketchfab Stange.001
+    100036: Sketchfab Stange.002
+    100038: Sketchfab Stange.003
+    100040: V-Tech
+    400000: 01 Aufkleber Quadra vorne
+    400002: 01 Aufkleber Quadra vorne.001
+    400004: //RootNode
+    400006: Rippen hinten guide
+    400008: Sketchfab Auspuff
+    400010: Sketchfab Heckzeugs
+    400012: Sketchfab Karosserie
+    400014: Sketchfab Kotfluegel
+    400016: Sketchfab Luftfilter
+    400018: Sketchfab Nummernschild vorne
+    400020: Sketchfab Nummernschild vorne.001
+    400022: Sketchfab Rad hinten
+    400024: Sketchfab Rad vorne
+    400026: Sketchfab Radlauf
+    400028: Sketchfab Spoiler
+    400030: Sketchfab Spoilerstangen
+    400032: Sketchfab Stange
+    400034: Sketchfab Stange.001
+    400036: Sketchfab Stange.002
+    400038: Sketchfab Stange.003
+    400040: V-Tech
+    2100000: Material
+    2300000: 01 Aufkleber Quadra vorne
+    2300002: 01 Aufkleber Quadra vorne.001
+    2300004: Rippen hinten guide
+    2300006: Sketchfab Auspuff
+    2300008: Sketchfab Heckzeugs
+    2300010: Sketchfab Karosserie
+    2300012: Sketchfab Kotfluegel
+    2300014: Sketchfab Luftfilter
+    2300016: Sketchfab Nummernschild vorne
+    2300018: Sketchfab Nummernschild vorne.001
+    2300020: Sketchfab Rad hinten
+    2300022: Sketchfab Rad vorne
+    2300024: Sketchfab Radlauf
+    2300026: Sketchfab Spoiler
+    2300028: Sketchfab Spoilerstangen
+    2300030: Sketchfab Stange
+    2300032: Sketchfab Stange.001
+    2300034: Sketchfab Stange.002
+    2300036: Sketchfab Stange.003
+    2300038: V-Tech
+    3300000: 01 Aufkleber Quadra vorne
+    3300002: 01 Aufkleber Quadra vorne.001
+    3300004: Rippen hinten guide
+    3300006: Sketchfab Auspuff
+    3300008: Sketchfab Heckzeugs
+    3300010: Sketchfab Karosserie
+    3300012: Sketchfab Kotfluegel
+    3300014: Sketchfab Luftfilter
+    3300016: Sketchfab Nummernschild vorne
+    3300018: Sketchfab Nummernschild vorne.001
+    3300020: Sketchfab Rad hinten
+    3300022: Sketchfab Rad vorne
+    3300024: Sketchfab Radlauf
+    3300026: Sketchfab Spoiler
+    3300028: Sketchfab Spoilerstangen
+    3300030: Sketchfab Stange
+    3300032: Sketchfab Stange.001
+    3300034: Sketchfab Stange.002
+    3300036: Sketchfab Stange.003
+    3300038: V-Tech
+    4300000: 01 Aufkleber Quadra vorne.001
+    4300002: Sketchfab Nummernschild vorne.001
+    4300004: Sketchfab Stange.003
+    4300006: Sketchfab Stange.002
+    4300008: Sketchfab Stange.001
+    4300010: Sketchfab Auspuff
+    4300012: Sketchfab Luftfilter
+    4300014: Sketchfab Stange
+    4300016: Sketchfab Spoiler
+    4300018: Sketchfab Radlauf
+    4300020: Sketchfab Rad hinten
+    4300022: Sketchfab Rad vorne
+    4300024: Sketchfab Kotfluegel
+    4300026: Sketchfab Karosserie
+    4300028: Sketchfab Heckzeugs
+    4300030: Sketchfab Spoilerstangen
+    4300032: Sketchfab Nummernschild vorne
+    4300034: Rippen hinten guide
+    4300036: 01 Aufkleber Quadra vorne
+    4300038: V-Tech
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: bc6878fa844d90b469144a073858ffb0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
